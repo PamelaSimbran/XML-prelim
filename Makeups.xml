@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<makeUps>
+	<Makeup id="1">
+        <product>Lipstick</product>
+        <name>Ever Bilena Matte Lipstick - Toast of New York</name>
+		<brand>Ever Bilena</brand>
+		<shade>Sexy Nude</shade>
+		<finishType>Matte</finishType>
+		<lastingPower>Medium - 2 to 5 Hours</lastingPower>
+		<lipBenefits>Long Wearing, Hydrating and infused with Vitamin E</lipBenefits>
+		<price>₱195</price>
+		<size>
+			<weight>3.6grams</weight>
+			<height>2.5inches</height>
+		</size>
+		<manufacturingDate>
+			<year>2018</year>
+			<month>January</month>
+			<day>3</day>
+		</manufacturingDate>
+		<manufactured>
+            Ever Bilena Philippine cosmetics company based in Caloocan, Metro Manila, Philippines
+        </manufactured>
+		<expiryDate>
+			<year>2020</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>
+            Ever bilena  brings a matte liquid lipstick as its finest, matte finished and rich color combination
+        </productDescription>
+	</Makeup>
+
+
+	<Makeup id="2">
+        <product>Foundation</product>
+        <name>Fit Me Matte + Poreless Foundation</name>
+		<brand>Maybelline Ney York</brand>
+		<shade>Natural Beige</shade>
+		<finishType>Matte-Poreless</finishType>
+        <skinType>Oily,Normal</skinType>
+		<lastingPower>12 Hours</lastingPower>
+		<faceBenefits>
+            Ideal for normal to oily skin, our exclusive matte foundation formula features micro-powders to control shine and blur pores. Pore minimizing foundation and SPF 22
+        </faceBenefits>
+		<price>₱499</price>
+		<size>
+			<weight>20grams</weight>
+			<height>3inches</height>
+		</size>
+		<manufacturingDate>
+			<year>2020</year>
+			<month>June</month>
+			<day>10</day>
+		</manufacturingDate>
+		<manufactured>Maybelline New York - L'Oreal Group - Consumer Products Division</manufactured>
+		<expiryDate>
+			<year>2024</year>
+			<month>December</month> 
+			<date>12</date> 
+		</expiryDate>
+		<productDescription>
+            Maybelline's Fit Me Matte + Poreless Liquid Foundation is all about your individual skin tone and texture. Ideal for normal to oily skin types, this ultralightweight formula features flexible micro-powders to control shine and blur pores throughout the day.
+        </productDescription>
+	</Makeup>
+
+	<Makeup id="3">
+        <product>Mascara</product>
+        <name>Diorshow 24h Buildable Volume Mascara</name>
+		<brand>Dior</brand>
+        <color>090 Black</color>
+		<shade>Timeless black</shade>
+		<formulationType>Volumizing, Lengthening</formulationType>
+		<lastingPower>24 Hours Lash volume</lastingPower>
+		<benefits>Long-wearing</benefits>
+        <highlightedIngredients>Cornflower Extract: Hydrates lashes</highlightedIngredients>
+		<price>₱1,641</price>
+		<size>
+			<ounce>0.33oz</ounce>
+			<milliLiter>10ML</milliLiter>
+		</size>
+		<manufacturingDate>
+			<year>2020</year>
+			<month>November</month>
+			<day>16</day>
+		</manufacturingDate>
+		<manufactured>Philippine cosmetics company based in Caloocan, Metro Manila, Philippines</manufactured>
+		<expiryDate>
+			<year>2023</year>
+			<month>January</month> 
+			<date>15</date> 
+		</expiryDate>
+		<productDescription>A mascara that builds perfectly defined lash-by-lash volume</productDescription>
+	</Makeup>
+
+	<Makeup id="4">
+		<product>Blush</product>
+        <name>MAJOR HEADLINES - DOUBLE-TAKE CREME & POWDER BLUSH DUO</name>
+        <brand>Patrick Ta</brand>
+		<shade>SHE'S VIBRANT (VIBRANT ORANGE RED)</shade>
+		<finish>Luminous Finish</finish>
+		<lastingPower>Long Lasting & Extended wear</lastingPower>
+		<Benefits>A PIGMENTED, WEIGHTLESS POWDER PAIRED WITH A HYDRATING, DEWY CREAM DESIGNED TO LAYER TOGETHER FOR A BOLD, DIMENSIONAL FINISH.</Benefits>
+		<price>₱1,972</price>
+		<size>
+			<weight>4.8grams</weight>
+			<ounce>0.16oz</ounce>
+		</size>
+		<manufacturingDate>
+			<year>2022</year>
+			<month>March</month>
+			<day>15</day>
+		</manufacturingDate>
+		<manufactured> UNITED STATES, ITALY, KOREA OR JAPAN</manufactured>
+		<expiryDate>
+			<year>2024</year>
+			<month>August</month> 
+			<date>17</date> 
+		</expiryDate>
+		<productDescription>TWO COMPLEMENTARY BLUSH FORMULAS IN ONE COMPACT TO GIVE YOU FULL, BOLD COLOR, GUARANTEED TO TURN HEADS.</productDescription>
+	</Makeup>
+
+	<Makeup id="5">
+		<product>Highlighter</product>
+        <name>Sugar Glow Kit</name>
+        <brand>ANASTASIA BEVERLY HILLS</brand>
+        <color>Sun Dipped</color>
+		<shadesInclude>
+            Marshmallow (white pearl)
+            Gumdrop (duo chrome pink lilac)
+            Butterscotch (honey gold)
+            Starburst (icy pink)
+        </shadesInclude>
+		<finish>Metallic</finish>
+		<lastingPower>Long Lasting & Extended wear</lastingPower>
+		<Benefits>A PIGMENTED, WEIGHTLESS POWDER PAIRED WITH A HYDRATING, DEWY CREAM DESIGNED TO LAYER TOGETHER FOR A BOLD, DIMENSIONAL FINISH.</Benefits>
+		<price>₱2,373</price>
+		<size>
+			<weight>4.8grams</weight>
+			<ounce>0.31oz</ounce>
+		</size>
+		<manufacturingDate>
+			<year>2023</year>
+			<month>February</month>
+			<day>25</day>
+		</manufacturingDate>
+		<manufactured>
+            American cosmetics company best known for its eyebrow products. The company was founded by Romanian-born Anastasia Soare in 1997, in Beverly Hills, California.
+        </manufactured>
+		<expiryDate>
+			<year>2024</year>
+			<month>September</month> 
+			<date>20</date> 
+		</expiryDate>
+		<productDescription>
+            What it is: A palette of four metallic powder highlighters for intense luminosity.
+            What it does: These four shades highlight your eyes, face and body with a buildable me.
+        </productDescription>
+	</Makeup>
+
+
+</Makeups>
